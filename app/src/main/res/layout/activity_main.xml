@@ -17,7 +17,7 @@
         android:layout_height="wrap_content"
         android:layout_gravity="center"
         android:backgroundTint="#009688"
-        android:text="Powiadomienie dlugi text" />
+        android:text="Powiadomienie" />
     <Button
         android:id="@+id/PictureButton"
         android:layout_width="wrap_content"
@@ -31,6 +31,6 @@
         android:layout_height="wrap_content"
         android:layout_gravity="center"
         android:backgroundTint="#CDDC39"
-        android:text="Powiadomienie" />
+        android:text="Powiadomienie dlugi text" />
 
 </LinearLayout>
