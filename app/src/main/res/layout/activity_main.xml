@@ -13,23 +13,22 @@
 
     <Button
         android:id="@+id/button"
-        android:layout_width="wrap_content"
+        android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_gravity="center"
         android:backgroundTint="#009688"
         android:text="Powiadomienie" />
     <Button
         android:id="@+id/PictureButton"
-        android:layout_width="wrap_content"
+        android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_gravity="center"
         android:backgroundTint="#2196F3"
         android:text="Powiadomienie Zdjecie" />
     <Button
         android:id="@+id/Addline"
-        android:layout_width="wrap_content"
+        android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:layout_gravity="center"
         android:backgroundTint="#CDDC39"
         android:text="Powiadomienie dlugi text" />
 
